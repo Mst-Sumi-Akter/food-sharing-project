@@ -1,11 +1,12 @@
-project - Community Food Sharing Platform
+Project - Community Food Sharing Platform
 Live Site: https://shiny-capybara-90abf6.netlify.app/
+
 Server (API):
 https://community-food-sharing-server-iota.vercel.app/
 
 Project Overview
 PlateShare is a full-stack MERN (MongoDB, Express, React, Node) web application that connects communities through food sharing.
-Users can share surplus food to reduce waste, and others can browse and request these items easily.
+Users can share surplus food to reduce waste, and others can easily browse and request these items.
 
 This project focuses on community engagement, real-time food availability, and user-friendly interaction using secure Firebase authentication and a responsive UI.
 
